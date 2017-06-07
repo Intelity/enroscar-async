@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SLUG="stanfy/enroscar-async"
+SLUG="Keypr/enroscar-async"
 JDK="oraclejdk8"
 BRANCH="master"
 
